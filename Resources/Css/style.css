@@ -426,4 +426,7 @@ footer .card{
 footer ul li{
     line-height: 1.5;
 }
+footer ul li:hover{
+    cursor:pointer;
+}
 #007BA7
